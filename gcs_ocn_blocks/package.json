@@ -1,0 +1,8 @@
+{
+  "name": "gcsocn",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}
